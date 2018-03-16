@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xinhao_han.xh_line.MainActivity">
+
+   <com.example.xhcharlib.XHLineChar
+
+       android:layout_width="match_parent"
+       android:layout_height="300dp"
+       android:id="@+id/xhchar"
+       ></com.example.xhcharlib.XHLineChar>
+
+</LinearLayout>
